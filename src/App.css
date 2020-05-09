@@ -1,0 +1,12 @@
+.SearchBar {
+  display: inline-block ;
+  margin-bottom: 70px ;
+}
+.row {
+  margin: 0px ;
+  padding: 10px;
+}
+
+.card-img-top{
+  height: 225px; width: 100%; display: block;
+}
